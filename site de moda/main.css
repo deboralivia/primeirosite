@@ -1,0 +1,39 @@
+h1{color: darkmagenta;}
+h1{font-size: x-large;}
+h1{text-align: center;}
+h2{color: rgb(138, 45, 138);}
+h2{font-size: larger;}
+h2{text-align: center;}
+.adriana{
+    background-color: darkviolet;
+    height: 40px; 
+    text-align: center;
+}
+nav a{
+    margin: 10 20px;
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+    font-size: larger;
+}
+h3{text-align: center;}
+h4{
+    font-size: larger;
+    color: purple;
+}
+header{
+    color: white;
+    background-color: darkviolet;
+}
+footer{
+    text-align: center;
+}
+.a1{ 
+    color: white;
+}
+.a2{
+    color: white;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.-YuTmBIN8OrsrmLG9QO7JQHaE8?rs=1&pid=ImgDetMain);
+}
